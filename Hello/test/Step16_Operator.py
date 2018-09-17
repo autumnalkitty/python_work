@@ -75,12 +75,13 @@ myNum += 1 #1증가
 myNum -= 1 #1감소 
 
 '''
-    [javascript 3항 연산]
-    var isRun=true;
-    var result= isRun ? '달려요' : '정지!';
-    [Java 3항 연산 ]
-    boolean isRun=true;
-    String result= isRun ? "달려요" : "정지!";
+[javascript 3항 연산]
+var isRun=true;
+var result= isRun ? '달려요' : '정지!';
+
+[Java 3항 연산 ]
+boolean isRun=true;
+String result= isRun ? "달려요" : "정지!";
 '''
 #3항 연산 
 isRun=False
