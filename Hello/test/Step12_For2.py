@@ -1,8 +1,5 @@
-#-*- coding:utf-8 -*-
+# -*- coding:utf-8 -*-
 
-'''
-
-'''
 names=['kim', 'lee', 'park', 'jo', 'choi']
 
 for item in names:
@@ -39,7 +36,7 @@ for i in range(len(names)-1, -1, -1):
     print u'{}: {}'.format(i, tmp)
 print '----------'
 
-#∑100
+# ∑100
 sum100=0
 for item in range(1, 101):
     sum100=sum100+item

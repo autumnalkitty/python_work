@@ -1,9 +1,9 @@
-#-*- coding:utf-8 -*-
+# -*- coding:utf-8 -*-
 
 '''
 [사용자 입력 받기]
 '''
-result=input(u'입력: ')
+result=input(u"입력: ")
 print "type:", type(result)
 print "result:", result
 
